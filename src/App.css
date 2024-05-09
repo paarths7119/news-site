@@ -1,0 +1,7 @@
+.nav-link:hover{
+    
+    background-color: white;
+    color: black;
+    cursor:pointer;
+    border-radius: 10px;
+}
